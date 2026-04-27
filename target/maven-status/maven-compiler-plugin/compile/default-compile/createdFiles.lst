@@ -1,0 +1,5 @@
+com\fiberify\dashboard\Application.class
+com\fiberify\dashboard\controller\DashboardApiController.class
+com\fiberify\dashboard\model\BlockNode.class
+com\fiberify\dashboard\model\GpEntry.class
+com\fiberify\dashboard\service\ExcelProcessorService.class
